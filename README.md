@@ -20,9 +20,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mohamed-manbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohamed-manbar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed manbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed manbar" height="30" width="40" /></a>
-<a href="https://fb.com/manbar mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="manbar mohamed" height="30" width="40" /></a>
-<a href="https://instagram.com/manbar-mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manbar-mohamed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamed-manbar-713a532b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-manbar-713a532b4" height="30" width="40" /></a>
+<a href="https://fb.com/mohamed-manbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed-manbar" height="30" width="40" /></a>
+<a href="https://instagram.com/mohamed_manbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_manbar" height="30" width="40" /></a>
 <a href="https://medium.com/@mohamedmanbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamedmanbar" height="30" width="40" /></a>
 </p>
 
