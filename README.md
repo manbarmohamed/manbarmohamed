@@ -1,36 +1,97 @@
-<h1 align="center">Hi 👋, I'm Manbar Mohamed</h1>
-<h3 align="center">A passionate Full Stack Java Angular developer from Morrocco</h3>
+# 👨‍💻 Mohamed Manbar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manbarmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="manbarmohamed" /> </p>
+Hello! I'm **Mohamed Manbar**, a passionate **Full Stack Java/Angular Developer** with expertise in building secure and scalable web and mobile applications. My journey in software development has equipped me with hands-on experience in modern technologies like **Spring Boot**, **Angular 17**, **JWT**, **Docker**, and **Jenkins**. I am committed to delivering high-quality solutions while adhering to software architecture principles and agile development practices.
 
-- 🔭 I’m currently working on [Market Bridge](https://github.com/manbarmohamed/MarketBridge)
+## 🌟 About Me
 
-- 🌱 I’m currently learning **Angular 17, Spring Boot, Spring Security**
+- **Profession:** Full Stack Java/Angular Developer  
+- **Location:** Morocco  
+- **Email:** [manbar.mohammed@gmail.com](mailto:manbar.mohammed@gmail.com)  
+- **Phone:** +212 690-472590  
+- **LinkedIn:** [@mohamed-manbar](https://www.linkedin.com/in/mohamed-manbar/)  
+- **GitHub:** [@manbarmohamed](https://github.com/manbarmohamed)  
 
-- 👯 I’m looking to collaborate on [Event-Management](https://github.com/imane-el-mazouz/Event_Management)
+I specialize in designing and developing applications using **Java**, **Spring Boot**, **Angular**, and cloud-native tools. My work focuses on creating efficient, secure, and user-friendly solutions.
 
-- 💬 Ask me about **Angular and Spring**
+---
 
-- 📫 How to reach me **manbar.mohammed@gmail.com**
+## 🔧 Technologies & Tools
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Back End
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jwt&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mohamed-manbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohamed-manbar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohamed-manbar-713a532b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-manbar-713a532b4" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed-manbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed-manbar" height="30" width="40" /></a>
-<a href="https://instagram.com/mohamed_manbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed_manbar" height="30" width="40" /></a>
-<a href="https://medium.com/@mohamedmanbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamedmanbar" height="30" width="40" /></a>
-</p>
+### Front End
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### DevOps & Databases
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manbarmohamed&show_icons=true&locale=en&layout=compact" alt="manbarmohamed" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manbarmohamed&show_icons=true&locale=en" alt="manbarmohamed" /></p>
+## 🚀 Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manbarmohamed&" alt="manbarmohamed" /></p>
+Here are some of my notable projects:
+
+### 1. **MrJob (Freelance Platform)**
+   - **Description:** Developed a freelance platform enabling users to post and manage job listings securely.
+   - **Technologies Used:** Spring Boot, Spring Security, JWT, MySQL, Angular 17, Docker, Jenkins, SonarQube.
+   - **Link:** [GitHub Repository](https://github.com/manbarmohamed/MrJob)
+
+### 2. **E-Bank Solution**
+   - **Description:** Built a banking application with features like account management, transactions, and security protocols.
+   - **Technologies Used:** Angular, TypeScript, Bootstrap, Spring Boot, Spring Security, Docker, Swagger.
+   - **Link:** [GitHub Repository](https://github.com/manbarmohamed/E-Bank-Solution)
+
+### 3. **Application Diabetes Tracker**
+   - **Description:** Created an application to track diabetes-related metrics using charts and visualizations.
+   - **Technologies Used:** Spring Boot, Hibernate, MySQL, ChartJS, Thymeleaf.
+   - **Link:** [GitHub Repository](https://github.com/manbarmohamed/Diabetes-Tracker)
+
+### 4. **IT Support App**
+   - **Description:** Designed a system for managing IT resources with role-based access control and reporting.
+   - **Technologies Used:** Spring Boot, Angular Material, JWT, Docker.
+   - **Link:** [GitHub Repository](https://github.com/manbarmohamed/IT-Support-App)
+
+---
+
+## 📚 Learning Journey
+
+- Currently enhancing my skills in **Microservices Architecture** and **Cloud Computing**.
+- Actively contributing to open-source projects and exploring new frameworks like **GraphQL** and **React Native**.
+
+---
+
+## 💬 How to Reach Me
+
+Feel free to connect with me via:
+- **Email:** [manbar.mohammed@gmail.com](mailto:manbar.mohammed@gmail.com)  
+- **LinkedIn:** [@mohamed-manbar](https://www.linkedin.com/in/mohamed-manbar/)  
+- **GitHub:** [@manbarmohamed](https://github.com/manbarmohamed)  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manbarmohamed&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manbarmohamed&layout=compact&theme=dark)
+
+---
+
+## 🤝 Let's Collaborate!
+
+I’m always open to discussing new ideas, collaborations, or opportunities. Feel free to reach out!
+
+---
+
+### Thanks for visiting my profile! 😊
