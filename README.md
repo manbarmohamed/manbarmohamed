@@ -1,3 +1,8 @@
+
+
+<h1 align="center">Hi 👋, I'm Mohamed Manbar</h1>
+<h3 align="center">Full Stack Java / Angular Developer</h3>
+
 # 👨‍💻 Mohamed Manbar
 
 Hello! I'm **Mohamed Manbar**, a passionate **Full Stack Java/Angular Developer** with expertise in building secure and scalable web and mobile applications. My journey in software development has equipped me with hands-on experience in modern technologies like **Spring Boot**, **Angular 17**, **JWT**, **Docker**, and **Jenkins**. I am committed to delivering high-quality solutions while adhering to software architecture principles and agile development practices.
@@ -9,7 +14,8 @@ Hello! I'm **Mohamed Manbar**, a passionate **Full Stack Java/Angular Developer*
 - **Email:** [manbar.mohammed@gmail.com](mailto:manbar.mohammed@gmail.com)  
 - **Phone:** +212 690-472590  
 - **LinkedIn:** [@mohamed-manbar](https://www.linkedin.com/in/mohamed-manbar/)  
-- **GitHub:** [@manbarmohamed](https://github.com/manbarmohamed)  
+- **GitHub:** [@manbarmohamed](https://github.com/manbarmohamed)
+- **Medium:** [@MohamedManbar](https://medium.com/@MohamedManbar). 
 
 I specialize in designing and developing applications using **Java**, **Spring Boot**, **Angular**, and cloud-native tools. My work focuses on creating efficient, secure, and user-friendly solutions.
 
@@ -39,36 +45,11 @@ I specialize in designing and developing applications using **Java**, **Spring B
 
 ---
 
-## 🚀 Projects
-
-Here are some of my notable projects:
-
-### 1. **MrJob (Freelance Platform)**
-   - **Description:** Developed a freelance platform enabling users to post and manage job listings securely.
-   - **Technologies Used:** Spring Boot, Spring Security, JWT, MySQL, Angular 17, Docker, Jenkins, SonarQube.
-   - **Link:** [GitHub Repository](https://github.com/manbarmohamed/MrJob)
-
-### 2. **E-Bank Solution**
-   - **Description:** Built a banking application with features like account management, transactions, and security protocols.
-   - **Technologies Used:** Angular, TypeScript, Bootstrap, Spring Boot, Spring Security, Docker, Swagger.
-   - **Link:** [GitHub Repository](https://github.com/manbarmohamed/E-Bank-Solution)
-
-### 3. **Application Diabetes Tracker**
-   - **Description:** Created an application to track diabetes-related metrics using charts and visualizations.
-   - **Technologies Used:** Spring Boot, Hibernate, MySQL, ChartJS, Thymeleaf.
-   - **Link:** [GitHub Repository](https://github.com/manbarmohamed/Diabetes-Tracker)
-
-### 4. **IT Support App**
-   - **Description:** Designed a system for managing IT resources with role-based access control and reporting.
-   - **Technologies Used:** Spring Boot, Angular Material, JWT, Docker.
-   - **Link:** [GitHub Repository](https://github.com/manbarmohamed/IT-Support-App)
-
----
-
 ## 📚 Learning Journey
 
 - Currently enhancing my skills in **Microservices Architecture** and **Cloud Computing**.
 - Actively contributing to open-source projects and exploring new frameworks like **GraphQL** and **React Native**.
+- Sharing insights and tutorials on my [Medium Blog](https://medium.com/@MohamedManbar).
 
 ---
 
